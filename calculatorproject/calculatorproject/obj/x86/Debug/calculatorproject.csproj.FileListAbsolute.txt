@@ -1,0 +1,8 @@
+c:\users\aadi\documents\visual studio 2010\Projects\calculatorproject\calculatorproject\bin\Debug\calculatorproject.exe
+c:\users\aadi\documents\visual studio 2010\Projects\calculatorproject\calculatorproject\bin\Debug\calculatorproject.pdb
+c:\users\aadi\documents\visual studio 2010\Projects\calculatorproject\calculatorproject\obj\x86\Debug\calculatorproject.Form1.resources
+c:\users\aadi\documents\visual studio 2010\Projects\calculatorproject\calculatorproject\obj\x86\Debug\calculatorproject.Properties.Resources.resources
+c:\users\aadi\documents\visual studio 2010\Projects\calculatorproject\calculatorproject\obj\x86\Debug\calculatorproject.csproj.GenerateResource.Cache
+c:\users\aadi\documents\visual studio 2010\Projects\calculatorproject\calculatorproject\obj\x86\Debug\calculatorproject.exe
+c:\users\aadi\documents\visual studio 2010\Projects\calculatorproject\calculatorproject\obj\x86\Debug\calculatorproject.pdb
+C:\Users\aadi\documents\visual studio 2010\Projects\calculatorproject\calculatorproject\obj\x86\Debug\calculatorproject.csprojResolveAssemblyReference.cache
